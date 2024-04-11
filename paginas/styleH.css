@@ -511,20 +511,8 @@ input#check{
   .wrap-nav-header h2 {
   display: none; }
 }
-.img-aniversario h2 {
-  display: flex;
-  justify-content: center;
-  font-size: 2.5rem;
-
-}
-.img-aniversario h3 {
-  display: flex;
-  justify-content: center;
-  font-size: 2.2rem;
-
-}
 .img-aniversario img{
-    width: 60%;
+    width: 100%;
     margin: auto;
     display:  block;
     border: 5px solid #555;
@@ -532,35 +520,6 @@ input#check{
 .img-aniversario p{
   font-size: 1.5rem;
   text-align: justify;
-}
-.menu-paquete-galeria{
-  color: #000;
-  text-align: center;
-  display: block;
-  font-size: 2.4em;
-  margin-block-start: 0em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-  }
-.Estados-Proyectos p{
-  font-size: 1.8rem;
-  text-align: center;
-  margin-bottom: -1.5rem;
-}
-.Estados-Proyectos a{
-  display: table;
-  transition: all 0.3s ease;
-  font-size: 2rem;
-  margin: 2rem auto;
-  padding: .5rem;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.8)
-}
-.Estados-Proyectos a:hover{
-  transform: scale(1.30);
-  color: #CC0000;
-  box-shadow: 0 0.5rem 1rem rgba(204, 0, 0, 0.8)
 }
 /*-------------------Tarjetas de Comida----------------------*/
 
